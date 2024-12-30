@@ -1,0 +1,5 @@
+train: ../PetImages/train/images
+val: ../PetImages/val/images
+
+nc: 2
+names: ['Cat', 'Dog']
